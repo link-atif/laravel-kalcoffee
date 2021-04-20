@@ -1,0 +1,495 @@
+@media only screen and (min-width:1200px) and (max-width:4000px) 
+{
+    
+    
+}
+
+@media only screen and (min-width:767px) and (max-width:1050px) 
+{
+    
+
+.banner_main{margin: 0 0 15px 0px; background-color: #8d132a; }
+    .banner_main h3 {
+        margin: 35px 0 15px 0;
+        font-size: 26px;
+        line-height: normal;
+        
+    }
+    .banner_main h3 br{ display: none;}
+    .banner_main p br{ display: none;}
+    .banner_main p{ font-size: 16px;}
+    .banner_header_outer{background-image: none; background-color: #8d132a; min-height: auto; max-height: unset; margin: 0 0 20px 0px;}
+    
+    
+    .header_type_2{background-image: none; background-color: #8d132a; padding: 12px 0 0px 0;}
+    .header_type_2 .topbar_header{margin-bottom: 20px;}
+    
+    .header_main.header_type_2 .navbar-collapse{margin-top: 0px;}
+    
+    .banner_right_image {
+        margin: 15px 0 20px 0;
+        padding: 0 0 0 0px;
+        float: left;
+    }
+    .banner_main .owl-buttons{width: 62px; margin-top: 0px;}
+    .banner_main .owl-buttons .owl-next{margin: 0px;}
+    
+    .coffe_types_Sec img{margin: 15px 0 10px 0;}
+    .home_banner_lower_sec{margin: 0px 0 20px 0px;}
+    
+    .coffe_types_Sec {
+        background: #EFEEED;
+        padding: 0px 15px 20px 15px;
+        margin: 0 0 15px 0;
+        /* box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.11); */
+    }
+    
+    .btn_Set .adto_Cart {
+        opacity: unset;
+    }
+    
+    .shop_all_btn{margin: 15px 0 0 0px;}
+    
+    
+    .vision_right_col {
+        float: right;
+        margin: 0px;
+        padding: 0 35px;
+        width: 100%;
+        text-align: center;
+    }
+    
+    .vision_right_col img{ float: none;}
+
+
+}
+
+
+
+
+
+@media only screen and (min-width:768px) and (max-width:1024px) 
+{
+ 
+    .header_main .navbar-default .nav_left li {
+        margin-right: 12px;
+    }
+    .header_main .navbar-default .navbar-nav > li > a{font-size: 12px;}
+    
+    .header_main .navbar-default .navbar-right li {
+        margin-left: 25px;
+    }
+    
+    .regiter_left{float: left; width: 100%;}
+    .regiter_left img{float: left; width: 100%;}
+    
+    .quantity_filter_sec {
+        margin: 0 0 10px 0;
+    }
+    .section_promo_discount{
+        margin: 0 0 10px 0;
+    }
+    .section_promo_discount_2{
+        margin: 0 0 10px 0;
+    }
+    .traine_quantity_2 p {
+        margin: 0 0 15px 0;
+    }
+    
+    .product_quantity_control {
+        margin: 20px 0 0 0;
+        text-align: left;
+    }
+    
+    .product_quantity_control h6 {
+        margin: 0px 0 13px 0;
+        text-align: left;
+    }
+    .product_detail_lft_col h6 {
+        margin: 0px 0 13px 0;
+    }
+    .product_quantity_control h5{  margin: 0px 0 13px 0; text-align: left;}
+    .product_detail_rightbar{margin: 70px 0 0 0;}
+    .product_detail_sec{margin: 0px 0 20px 0;}
+    .btn_Set .adto_Cart {
+        opacity: unset;
+    }
+    
+    .courses_title {
+    float: left;
+        margin: 24px 0 20px 0;
+    }
+    .header_type_2 {
+        background-image: none;
+        background-color: #8d132a;
+        padding: 12px 0 16px 0;
+    }
+    
+    .accordian_sec {
+        margin: 0px 0 30px 0;
+    }
+    .filter_lower_sections .coffe_types_Sec{margin-bottom: 20px;}
+    .filter_lower_sections .move_top_f_fix {
+        margin-top: 20px;
+    }
+    .section_filters {
+        margin: 4px 0 50px 0;
+    }
+    
+    .about_main_page_sec .about_right_col {
+        padding: 0 0 0 0px;
+    }
+    .about_main_page_sec h6 {
+        margin: 26px 0 19px 0;
+        padding: 0px;
+        font-size: 20px;
+    }
+    
+    .vision_mission {
+        margin: 0px 0 0px 0;
+        padding: 15px 0 15px 0;
+        height: auto;
+    }
+    .vision_mission h4 {
+        margin: 0 0 15px 0;
+        padding: 0px;
+        width: 100%;
+        font-size: 24px;
+        font-weight: 500;
+        color: #2F3035;
+    }
+    
+    .values_section h6 {
+        margin: 10px 0 15px 0;
+    }
+    .values_section {
+        float: left;
+        margin: 13px 0 13px 0;
+    }
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+@media only screen and (min-width:320px) and (max-width:767px) {
+    
+    .header_main .navbar-brand-centered img {
+        max-width: 90px;
+    }
+    .header_main .navbar-brand-centered{width: auto;}
+    
+    .top_register_sec{margin: 0px 0 0 0px;}
+    .cart_top{margin: 0px 0 0 15px;}
+    .top_search{margin: 0px 0 0 15px;}
+    
+    .header_type_2 {padding: 10px 0 53px 0;}
+    
+    .register_inner .contact_right_col {
+        padding: 15px 10px 15px 10px;
+    }
+    .contact_section {
+        margin: 15px 0 25px 0;
+    }
+    
+    .contact_section .col-md-4{ padding: 0px;}
+    .contact_section .col-md-8{ padding: 0px;}
+    
+    
+    .form_select_option_col p label {
+        margin: 0 15px 0 0;
+    }
+    
+    .form_select_option_col p span{margin: 0 15px 0 0;}
+    
+    .form_select_option_col p label {
+        margin: 0 15px 15px 0;
+    }
+    .form_select_option_col p{margin: 0px;}
+    
+    .header_main{padding: 12px 0 0 0px;}
+    
+    .header_main .navbar-collapse {
+        padding: 14px 15px 0px 15px;
+        margin-top: 15px;
+        background-color: #000;
+    }
+    .header_main .navbar-nav {
+        margin: 0 0 0 0px;
+    }
+    .header_main .navbar-default .nav_left li {
+        margin: 0 0 13px 0;
+    }
+
+    .header_main .navbar-default .navbar-nav > li {
+        padding: 0 0 0 0;
+        margin: 0 0 13px 0;
+    }
+    
+    .banner_main{margin: 0 0 15px 0px; background-color: #8d132a; }
+    .banner_main h3 {
+        margin: 35px 0 15px 0;
+        font-size: 26px;
+        line-height: normal;
+        
+    }
+    .banner_main h3 br{ display: none;}
+    .banner_main p br{ display: none;}
+    .banner_main p{ font-size: 16px;}
+    .banner_header_outer{background-image: none; background-color: #8d132a; min-height: auto; max-height: unset; margin: 0 0 20px 0px;}
+    
+    
+    .header_type_2{background-image: none; background-color: #8d132a; padding: 12px 0 0px 0;}
+    .header_type_2 .topbar_header{margin-bottom: 20px;}
+    
+    .header_main.header_type_2 .navbar-collapse{margin-top: 0px;}
+    
+    .banner_right_image {
+        margin: 15px 0 20px 0;
+        padding: 0 0 0 0px;
+        float: left;
+    }
+    .banner_main .owl-buttons{width: 62px; margin-top: 0px;}
+    .banner_main .owl-buttons .owl-next{margin: 0px;}
+    
+    .coffe_types_Sec img{margin: 15px 0 10px 0;}
+    .home_banner_lower_sec{margin: 0px 0 20px 0px;}
+    
+    .coffe_types_Sec {
+        background: #EFEEED;
+        margin: 0 0 15px 0;
+        /* box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.11); */
+    }
+    .btn_Set .adto_Cart{opacity: unset;}
+    .home_banner_lower_sec .container{padding: 0px;}
+    
+    .upcoming_courses_sec {
+        margin: 0px 0 0px 0px;
+        padding: 10px 0 15px 0px;
+    }
+    .courses_title h6 {
+        padding: 0 0px !important;
+        font-size: 22px;
+        line-height: 28px;
+    }
+    
+    .upcoming_courses_sec .col-md-4{ padding-left: 15px; padding-right: 15px;}
+    .upcoming_courses_sec .col-md-3{ padding-left: 0; padding-right: 0px;}
+    .section_cource_col{margin: 0 0 15px 0;}
+    .shop_all_btn{margin: 0px 0 0 0px;}
+    
+    .about_right_col{padding: 0px;}
+    .about_right_col p{margin: 0 0 15px 0; font-size: 16px;}
+    .about_right_col p span{font-size: 16px;}
+    .courses_title {
+        margin: 0px 0 12px 0;
+    }
+    .home_about_section {
+        margin: 0px 0 20px 0;
+        padding: 9px 0 0 0;
+        width: 100%;
+    }
+    
+    .section_cource_col img {
+        margin: 0px 0 14px 0px;
+    }
+    .section_cource_col a {
+        margin: 0px 0 5px 0;
+    }
+    .home_clinets .courses_title h6 {
+        background-color: #fff;
+        margin: 20px 0 0 0;
+    }
+    .home_clinets {
+        margin: 0px 0 20px 0;
+    }
+    
+    .footer_main{padding: 22px 0 0px 0px;}
+    .footer_main .col-md-3.padd_0 {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+    
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #fff;
+    }
+    .copyright p {
+        margin: 16px 0 16px 0;
+        font-size: 10px;
+        font-weight: 600;
+    }
+    
+    .inner_pages_title {
+        margin: 0 0 11px 0;
+        padding: 10px 0 0px 0;
+    }
+    
+    .about_main_page_sec .about_right_col {
+        padding: 0 0 0 0px;
+    }
+    .about_main_page_sec h6 {
+        margin: 26px 0 19px 0;
+        padding: 0px;
+        font-size: 20px;
+    }
+    
+    .vision_mission {
+        margin: 0px 0 0px 0;
+        padding: 15px 0 15px 0;
+        height: auto;
+    }
+    .vision_mission h4 {
+        margin: 0 0 15px 0;
+        padding: 0px;
+        width: 100%;
+        font-size: 24px;
+        font-weight: 500;
+        color: #2F3035;
+    }
+    
+    .values_section h6 {
+        margin: 10px 0 15px 0;
+    }
+    .values_section {
+        float: left;
+        margin: 13px 0 13px 0;
+    }
+    
+    .equal_5_col{ width: 100%;}
+    .fillter {
+        margin: 33px 0 36px 0px;
+    }
+    .section_filters {
+        float: left;
+        margin: 4px 0 25px 0;
+    }
+    .filter_lower_sections .coffe_types_Sec {
+        margin-bottom: 15px;
+    }   
+    .fc-header-title h2{font-size: 28px !important;}
+    
+    .cart_left_col{padding: 10px 0 10px 0px;}
+    
+    .cart_resposive_mobile{ overflow-x: scroll;}
+    .cart_resposive_mobile .table{ min-width: 450px; margin-bottom: 10px;}
+    .cart_section_main {
+        margin: 0px 0 25px 0;
+    }
+    
+    a.order_sample.kep_sop_move_t {
+        margin: -50px 0 16px 0px !important;
+        float: left;
+    }
+    
+    .contact_right_col{padding: 14px 10px 22px 10px;}
+    .address_info{padding: 0 15px 20px 15px;}
+    .accordian_sec {
+        margin: 0px 0 20px 0;
+        padding: 15px 10px 30px 10px;
+    }
+    .quantity_filter_sec {
+        margin: 0 0 10px 0;
+    }
+    .section_promo_discount{
+        margin: 0 0 10px 0;
+    }
+    .section_promo_discount_2{
+        margin: 0 0 10px 0;
+    }
+    .traine_quantity_2 p {
+        margin: 0 0 15px 0;
+    }
+    
+    .product_quantity_control {
+        margin: 20px 0 0 0;
+        text-align: left;
+    }
+    
+    .product_quantity_control h6 {
+        margin: 0px 0 13px 0;
+        text-align: left;
+    }
+    .product_detail_lft_col h6 {
+        margin: 0px 0 13px 0;
+    }
+    .product_quantity_control h5{  margin: 0px 0 13px 0; text-align: left;}
+    .product_detail_rightbar{margin: 0px;}
+    .product_detail_sec{margin: 0px 0 20px 0;}
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+/********* ipad ********/
+@media only screen and (min-width:767.5px) and (max-width:1080px){
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/********* iphones mobiles ********/
+@media only screen and (max-width:767px)
+{
+    
+}
+
+
+
+
+@media only screen and (min-width:320px) and (max-width:550px) 
+{
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

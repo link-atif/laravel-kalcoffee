@@ -1,0 +1,1 @@
+<p>Your Order has been placed successfully, please find your order invoice below.</p>
